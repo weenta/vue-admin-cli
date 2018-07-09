@@ -1,0 +1,38 @@
+{
+  "name": "vue-admin-cli",
+  "version": "0.0.1",
+  "description": "一键构建基于vue+element-ui+axios+mockjs的通用后台管理模板",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vadmin": "bin/vadmin.js"
+  },
+  "keywords": [
+    "cli",
+    "vue",
+    "admin",
+    "element-ui",
+    "mock"
+  ],
+  "author": "weenta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:weenta/vue-admin-cli.git"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "consolidate": "^0.15.1",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "metalsmith": "^2.3.0",
+    "ora": "^2.1.0",
+    "rimraf": "^2.6.2",
+    "user-home": "^2.0.0"
+  }
+}
