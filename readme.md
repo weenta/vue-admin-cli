@@ -13,3 +13,6 @@
 
   npm start
 ```
+
+## license
+MIT
