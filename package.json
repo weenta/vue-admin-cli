@@ -1,6 +1,6 @@
 {
   "name": "vue-admin-cli",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "一键构建基于vue+element-ui+axios+mockjs的通用后台管理模板",
   "main": "",
   "scripts": {
@@ -14,7 +14,8 @@
     "vue",
     "admin",
     "element-ui",
-    "mock"
+    "mock",
+    "vue-admin-cli"
   ],
   "author": "weenta",
   "license": "MIT",
